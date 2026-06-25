@@ -5,26 +5,26 @@ systems with clean interfaces, real test coverage, and honest documentation.
 
 - 🔭 **Focus:** applied AI (Python, computer vision, behavior-tree agents) and game tooling (Java, Fabric).
 - 🧩 **Style:** decoupled layers, swappable backends, safety and fair-play by default.
-- 🎮 **My mods:** all of my published Minecraft mods live on **[Modrinth → modrinth.com/user/zachphul](https://modrinth.com/user/zachphul)**.
+- 🎮 **Play my mods:** free on **[Modrinth → modrinth.com/user/zachphul](https://modrinth.com/user/zachphul)**.
+
+> The source for everything below is public so you can read it. It is published for
+> viewing and evaluation, all rights reserved. The mods are free to download on Modrinth.
 
 ---
 
 ## 🤖 AI / Computer Vision
 
-| Project | What it is | Stack |
+| Project | What it is | Links |
 |---------|-----------|-------|
-| **[brawler-arena-sandbox](https://github.com/zachphul/brawler-arena-sandbox)** | An offline AI research sandbox: a Pygame arena driven by a decoupled perceive, decide, act agent with a YOLOv8 + OCR vision pipeline, a py_trees behavior tree, and Bézier-curve kinematics, all behind a swappable driver. No real game, no networking, a pure simulation target for agent research. | Python, Ultralytics, py_trees |
+| **brawler-arena-sandbox** | An offline AI research sandbox: a Pygame arena driven by a decoupled perceive, decide, act agent with a YOLOv8 + OCR vision pipeline, a py_trees behavior tree, and Bézier-curve kinematics, all behind a swappable driver. No real game, no networking, a pure simulation target for agent research. | [Code](https://github.com/zachphul/brawler-arena-sandbox) |
 
-## 🎮 Minecraft Mods
+## 🎮 Minecraft / Fabric
 
-I build and publish free Minecraft (Fabric) mods. **Get them on Modrinth**, which is the official place to download and stay updated:
-
-| Mod | Download |
-|-----|----------|
-| **BazaarFlip** — live Hypixel SkyBlock market-analysis overlay with verified profit math | **[modrinth.com/mod/bazaar-flipper](https://modrinth.com/mod/bazaar-flipper)** |
-| **All my other mods** (ReJoin, AutoToolSwap, BrightMode, ChatMacros, and more) | **[modrinth.com/user/zachphul](https://modrinth.com/user/zachphul)** |
-
-> Please download from Modrinth so you always get the official, latest build.
+| Project | What it is | Links |
+|---------|-----------|-------|
+| **BazaarFlip** | Live Hypixel SkyBlock market-analysis overlay with verified profit math, a craft-flip engine, and NPC arbitrage. | [Code](https://github.com/zachphul/BazaarFlip) · [Download](https://modrinth.com/mod/bazaar-flipper) |
+| **Minecraft Fabric Mods** | A library of 39 client-side quality-of-life and HUD mods for MC 1.21.x. | [Code](https://github.com/zachphul/minecraft-fabric-mods) · [Download](https://modrinth.com/user/zachphul) |
+| **SkyZen** | An all-in-one SkyBlock quality-of-life suite: trackers, HUDs, event timers, chat cleaner, and price tooltips. | [Code](https://github.com/zachphul/SkyZen) |
 
 ---
 
@@ -38,4 +38,5 @@ I build and publish free Minecraft (Fabric) mods. **Get them on Modrinth**, whic
 ---
 
 ### 📫 Find me
+- GitHub: **[github.com/zachphul](https://github.com/zachphul)**
 - Mods on Modrinth: **[modrinth.com/user/zachphul](https://modrinth.com/user/zachphul)**
