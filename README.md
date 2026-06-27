@@ -37,6 +37,24 @@ systems with clean interfaces, real test coverage, and honest documentation.
 
 ---
 
+## 📜 Certifications
+
+**[Anthropic Academy](https://anthropic.skilljar.com/)** — Issued Jun 2026
+
+| Certificate | Verify |
+|-------------|--------|
+| AI Fluency: Framework & Foundations | [Verify ↗](https://verify.skilljar.com/c/bwwxu2z5fmti) |
+| AI Fluency for Builders | [Verify ↗](https://verify.skilljar.com/c/tp597u8yman3) |
+| Claude 101 | [Verify ↗](https://verify.skilljar.com/c/7wg4je8fnp4p) |
+| Claude Platform 101 | [Verify ↗](https://verify.skilljar.com/c/wj9tqi49do99) |
+| Claude Code 101 | [Verify ↗](https://verify.skilljar.com/c/kretiqhkan9o) |
+| Claude Code in Action | [Verify ↗](https://verify.skilljar.com/c/wgi5tjep9fz9) |
+| Introduction to Claude Cowork | [Verify ↗](https://verify.skilljar.com/c/jevn8kx9u7ut) |
+| Building with the Claude API | [Verify ↗](https://verify.skilljar.com/c/o45qkqj7aj8m) |
+| Introduction to Model Context Protocol | [Verify ↗](https://verify.skilljar.com/c/gafhrbnj52i9) |
+
+---
+
 ### 📫 Find me
 - GitHub: **[github.com/zachphul](https://github.com/zachphul)**
 - Mods on Modrinth: **[modrinth.com/user/zachphul](https://modrinth.com/user/zachphul)**
