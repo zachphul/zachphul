@@ -1,14 +1,19 @@
-# Hi, I'm Zachary 👋
+# Zachary Phul
 
-I build **AI agents and game tooling** in Java and Python. I like small, well-factored
-systems with clean interfaces, real test coverage, and honest documentation.
+**Computer Science student building AI agents and game tooling.** Java · Python · Node.js · React
 
-- 🔭 **Focus:** applied AI (Python, computer vision, behavior-tree agents) and game tooling (Java, Fabric).
-- 🧩 **Style:** decoupled layers, swappable backends, safety and fair-play by default.
+I build genuinely useful software and give most of it away — 40+ free Minecraft mods on
+Modrinth, an offline computer-vision agent sandbox, and a handful of larger systems. I care
+about clean interfaces, real test coverage, and documentation that's honest about what the
+code does.
+
+- 🎓 **Studying:** Computer Science at Worcester Polytechnic Institute (moving into Cybersecurity).
+- 🔭 **Focus:** applied AI (computer vision, behavior-tree agents) and game tooling (Java, Fabric).
+- 🧩 **Principles:** decoupled layers, swappable backends, safety and fair-play by default.
 - 🎮 **Play my mods:** free on **[Modrinth → modrinth.com/user/zachphul](https://modrinth.com/user/zachphul)**.
 
-> The source for everything below is public so you can read it. It is published for
-> viewing and evaluation, all rights reserved. The mods are free to download on Modrinth.
+> Source for the projects below is public for reading and evaluation — **© 2026 Zachary Phul,
+> all rights reserved** (the mods themselves are free to download on Modrinth).
 
 ---
 
@@ -16,24 +21,24 @@ systems with clean interfaces, real test coverage, and honest documentation.
 
 | Project | What it is | Links |
 |---------|-----------|-------|
-| **brawler-arena-sandbox** | An offline AI research sandbox: a Pygame arena driven by a decoupled perceive, decide, act agent with a YOLOv8 + OCR vision pipeline, a py_trees behavior tree, and Bézier-curve kinematics, all behind a swappable driver. No real game, no networking, a pure simulation target for agent research. | [Code](https://github.com/zachphul/brawler-arena-sandbox) |
+| **Brawler Arena Sandbox** | An offline AI research sandbox: a Pygame arena driven by a decoupled *perceive → decide → act* agent — YOLOv8 detection, an OCR pipeline, a `py_trees` behavior tree, and Bézier-curve motion planning, all behind a swappable driver. No live game, no networking; a clean target for agent research. | [Code](https://github.com/zachphul/brawler-arena-sandbox) |
 
 ## 🎮 Minecraft / Fabric
 
 | Project | What it is | Links |
 |---------|-----------|-------|
-| **BazaarFlip** | Live Hypixel SkyBlock market-analysis overlay with verified profit math, a craft-flip engine, and NPC arbitrage. | [Code](https://github.com/zachphul/BazaarFlip) · [Download](https://modrinth.com/mod/bazaar-flipper) |
-| **Minecraft Fabric Mods** | A library of 39 client-side quality-of-life and HUD mods for MC 1.21.x. | [Code](https://github.com/zachphul/minecraft-fabric-mods) · [Download](https://modrinth.com/user/zachphul) |
-| **SkyZen** | An all-in-one SkyBlock quality-of-life suite: trackers, HUDs, event timers, chat cleaner, and price tooltips. | [Code](https://github.com/zachphul/SkyZen) |
+| **BazaarFlip** | Live Hypixel SkyBlock market-analysis overlay — verified profit math, a craft-flip engine, and NPC arbitrage on one draggable HUD. | [Code](https://github.com/zachphul/BazaarFlip) · [Download](https://modrinth.com/mod/bazaar-flipper) |
+| **SkyZen** | All-in-one SkyBlock quality-of-life suite: trackers, HUDs, event timers, chat cleaner, price tooltips. | [Code](https://github.com/zachphul/SkyZen) |
+| **Minecraft Fabric Mods** | A library of 39 lightweight client-side QoL & HUD mods for Minecraft 1.21.x. | [Code](https://github.com/zachphul/minecraft-fabric-mods) · [Download](https://modrinth.com/user/zachphul) |
 
 ---
 
 ## 🛠️ Tech
 
-**Languages:** Python, Java
-**AI / CV:** Ultralytics YOLOv8, EasyOCR, py_trees, NumPy, Pygame
-**Game modding:** Fabric, Mixins, Gradle, YACL, Mod Menu
-**Tooling:** Git, Poetry, pytest
+**Languages:** Java · Python · Node.js · React
+**AI / CV:** Ultralytics YOLOv8 · EasyOCR · py_trees · NumPy · Pygame
+**Game modding:** Fabric · Mixins · Gradle · YACL · Mod Menu
+**Tooling:** Git · Poetry · pytest
 
 ---
 
@@ -56,5 +61,5 @@ systems with clean interfaces, real test coverage, and honest documentation.
 ---
 
 ### 📫 Find me
-- GitHub: **[github.com/zachphul](https://github.com/zachphul)**
-- Mods on Modrinth: **[modrinth.com/user/zachphul](https://modrinth.com/user/zachphul)**
+- **GitHub:** [github.com/zachphul](https://github.com/zachphul)
+- **Modrinth:** [modrinth.com/user/zachphul](https://modrinth.com/user/zachphul)
