@@ -44,19 +44,42 @@ code does.
 
 ## 📜 Certifications
 
-**[Anthropic Academy](https://anthropic.skilljar.com/)** — Issued Jun 2026
+**[Anthropic Academy](https://anthropic.skilljar.com/)** — 20 courses completed, Jun 2026
+
+**Claude & platform**
 
 | Certificate | Verify |
 |-------------|--------|
-| AI Fluency: Framework & Foundations | [Verify ↗](https://verify.skilljar.com/c/bwwxu2z5fmti) |
-| AI Fluency for Builders | [Verify ↗](https://verify.skilljar.com/c/tp597u8yman3) |
 | Claude 101 | [Verify ↗](https://verify.skilljar.com/c/7wg4je8fnp4p) |
 | Claude Platform 101 | [Verify ↗](https://verify.skilljar.com/c/wj9tqi49do99) |
 | Claude Code 101 | [Verify ↗](https://verify.skilljar.com/c/kretiqhkan9o) |
 | Claude Code in Action | [Verify ↗](https://verify.skilljar.com/c/wgi5tjep9fz9) |
-| Introduction to Claude Cowork | [Verify ↗](https://verify.skilljar.com/c/jevn8kx9u7ut) |
 | Building with the Claude API | [Verify ↗](https://verify.skilljar.com/c/o45qkqj7aj8m) |
+| Introduction to Claude Cowork | [Verify ↗](https://verify.skilljar.com/c/jevn8kx9u7ut) |
+| Claude with Amazon Bedrock | [Verify ↗](https://verify.skilljar.com/c/68f9ey587uwy) |
+| Claude with Google Cloud's Vertex AI | [Verify ↗](https://verify.skilljar.com/c/56gfb9zyuebm) |
+
+**Agents, MCP & skills**
+
+| Certificate | Verify |
+|-------------|--------|
 | Introduction to Model Context Protocol | [Verify ↗](https://verify.skilljar.com/c/gafhrbnj52i9) |
+| Model Context Protocol: Advanced Topics | [Verify ↗](https://verify.skilljar.com/c/9haxsp2txvsh) |
+| Introduction to agent skills | [Verify ↗](https://verify.skilljar.com/c/84suet3859mw) |
+| Introduction to subagents | [Verify ↗](https://verify.skilljar.com/c/izk5jkor7aa4) |
+
+**AI fluency**
+
+| Certificate | Verify |
+|-------------|--------|
+| AI Fluency: Framework & Foundations | [Verify ↗](https://verify.skilljar.com/c/bwwxu2z5fmti) |
+| AI Capabilities and Limitations | [Verify ↗](https://verify.skilljar.com/c/kyvkinzxy2dt) |
+| AI Fluency for Builders | [Verify ↗](https://verify.skilljar.com/c/tp597u8yman3) |
+| AI Fluency for students | [Verify ↗](https://verify.skilljar.com/c/m25ufipvtg24) |
+| AI Fluency for educators | [Verify ↗](https://verify.skilljar.com/c/94va3fpqbiwk) |
+| AI Fluency for nonprofits | [Verify ↗](https://verify.skilljar.com/c/ae2kgopj5o4y) |
+| AI Fluency for Small Businesses | [Verify ↗](https://verify.skilljar.com/c/2snapfn3oi9h) |
+| Teaching AI Fluency | [Verify ↗](https://verify.skilljar.com/c/9i4sx5vrn2wx) |
 
 ---
 
