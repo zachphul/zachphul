@@ -1,16 +1,23 @@
 # Zachary Phul
 
-**Software developer building with AI: agents, computer vision, and security tools.**
+**Software developer building with AI | Python & Java | Cybersecurity at WPI**
 
-I'm a cybersecurity student at Worcester Polytechnic Institute working in Python and Java. I use AI-assisted development to turn ideas into practical software, and build systems that apply AI to perception, decision-making, and security reporting.
+I'm a cybersecurity student at Worcester Polytechnic Institute working in Python and Java. I use AI-assisted development to turn ideas into practical software, and build tools that apply AI to practical problems.
 
 [Portfolio](https://zachphul.github.io) · [LinkedIn](https://www.linkedin.com/in/zacharyphul/) · [Free mods on Modrinth](https://modrinth.com/user/zachphul)
 
-## Selected projects
+## Current project
 
 | Project | What I built | What it demonstrates |
 | --- | --- | --- |
 | [Recon Reporter](https://github.com/zachphul/recon-reporter) | Python reconnaissance reporting pipeline combining Nmap, deterministic rules, CVE enrichment, and an LLM analyst using Claude or a local model. | Applied AI for security, evidence-grounded findings, modular architecture, and automated checks. |
+
+## Past projects
+
+These older projects show previous work in computer vision and game tooling. They are not my current development focus.
+
+| Project | What I built | What it demonstrates |
+| --- | --- | --- |
 | [Brawler Arena Sandbox](https://github.com/zachphul/brawler-arena-sandbox) | Offline Pygame sandbox with YOLOv8 detection, OCR, a behavior-tree agent, and Bézier motion planning. | A complete perceive → decide → act loop with swappable components. |
 | [Minecraft Fabric Mods](https://github.com/zachphul/minecraft-fabric-mods) | 39 lightweight client-side utility and HUD mods for Minecraft 1.21.x. | Java development, reusable components, and practical user-facing tools. |
 | [BazaarFlip](https://github.com/zachphul/BazaarFlip) | Hypixel SkyBlock market-analysis overlay with profit calculations, craft-flip analysis, and NPC arbitrage. | Data processing, calculation logic, and interactive HUD design. |
@@ -19,10 +26,10 @@ I'm a cybersecurity student at Worcester Polytechnic Institute working in Python
 ## How I work with AI
 
 - **AI-assisted development:** I use AI tools as part of building and iterating on software, with source code and project documentation available for review.
-- **AI in the product:** Recon Reporter uses an LLM to help explain security evidence; Brawler Arena explores computer vision and agent behavior in an offline environment.
+- **AI in the product:** Recon Reporter uses an LLM to help explain security evidence; my earlier Brawler Arena project explored computer vision and agent behavior in an offline environment.
 - **Engineering focus:** Clear interfaces, swappable backends, tests, and documentation that explains capabilities and limitations.
 
-## Technical focus
+## Technical experience
 
 - **Languages:** Python, Java, JavaScript
 - **AI and computer vision:** Claude API, local LLMs, Model Context Protocol (MCP), YOLOv8, EasyOCR, py_trees
